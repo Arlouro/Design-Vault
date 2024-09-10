@@ -91,9 +91,44 @@ Superhuman: https://superhuman.com/
 ## No Code Implementation
 Framer → https://www.framer.com/
 ## Figma Pluggins
-![[Pasted image 20240507222130.png]]
-![[Pasted image 20240507222419.png]]
-
+### Icons
+- IconScout
+- Iconify
+- Iconpark
+- Iconduck
+- Icon8
+### Illustrations
+- Blush
+- Illustrations
+- Storyset
+- Humaaans
+- Wannathis
+### Mockups
+- Device Models
+- Artboard
+- 3D Transformer
+- Mockuups
+- Rotato 3D
+### Images
+- Unsplashed
+- Freepik
+- Pexels
+- Lummi
+- Foca Stock
+### Animations
+- Lootiefiles
+- Jitter
+- Figmotion
+- Parallax
+- Motion
+### Test Design
+- Responsify
+- Writer
+- User Flows
+### Colors
+- Coolors
+### Place Holders
+- Lorem Ipsum
 # Coding
 ## Front-End
 CodePen: https://codepen.io/trending
