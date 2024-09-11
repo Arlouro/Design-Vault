@@ -36,6 +36,7 @@ Superhuman: https://superhuman.com/
  
 ## Logos
 - Logos → https://logggos.club
+- Logo Diffusion → https://logodiffusion.com/
 
 ## Icons
 - 3dicons → https://3dicons.co 
@@ -53,9 +54,11 @@ Superhuman: https://superhuman.com/
 	6) Lexend → https://fonts.google.com/specimen/Lexend
 
 ## Colors 
-- Gradients → webgradients.com 
+- Gradients → webgradients.com
+- Shader Gradients → https://www.shadergradient.co/customize 
 - Color Designer → [colordesigner.io](http://colordesigner.io/)
 - Unicolors → https://unicolors.app
+- RealtimeColors → https://www.realtimecolors.com/
 
 ## Illustrations
 - Ultima → https://ultima.storytale.io 
@@ -73,6 +76,7 @@ Superhuman: https://superhuman.com/
 - Rive ([Rive](https://www.linkedin.com/company/rive-app/)) → [rive.app](http://rive.app/)  
 - Protopie ([ProtoPie](https://www.linkedin.com/company/protopie/)) → [protopie.io](http://protopie.io/)  
 - Framer ([Framer](https://www.linkedin.com/company/framer/)) → [framer.com](http://framer.com/)
+- Motion → https://motion.zajno.com/
 
 ## Characters/3D Modeling
 - Characters → https://sapiens.ui8.net
@@ -81,8 +85,17 @@ Superhuman: https://superhuman.com/
 - Cinema 4D → [https://www.maxon.net/en/cinema-4d](https://www.maxon.net/en/cinema-4d "https://www.maxon.net/en/cinema-4d")
 - ProVisual → https://provisual.app/
 
-## Design Systems
+## Product Photoshoots
+- Flair → https://flair.ai/
+
+## Guidance
+### Design Systems
 - DesignSystems → https://www.designsystems.com/
+### Design and Code
+- Design+Code → https://designcode.io/
+- Humane By Design → https://humanebydesign.com/
+### Organization
+- Checklist Design → https://www.checklist.design/
 
 ## Presentations/Mockups:
 - Mortflax → https://things.morflax.com/
