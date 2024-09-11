@@ -34,12 +34,21 @@ Superhuman: https://superhuman.com/
 - Pageflows → https://pageflows.com
 - Behance → https://www.behance.net/
  
+## Components
+- Radix → https://www.radix-ui.com/
+
 ## Logos
 - Logos → https://logggos.club
 - Logo Diffusion → https://logodiffusion.com/
 
 ## Icons
 - 3dicons → https://3dicons.co 
+- Material Icons → https://fonts.google.com/icons
+- Lordicons → https://lordicon.com/
+- Noun Project → https://thenounproject.com/
+- Heroicons → https://heroicons.com/
+- Iconsax → https://iconsax.io/
+- Feather Icons → https://feathericons.com/
 
 ## Fonts/Text
 - Fonts → https://fontsinuse.com 
