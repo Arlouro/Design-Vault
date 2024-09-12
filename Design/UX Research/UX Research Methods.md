@@ -1,4 +1,4 @@
-#DESIGN #UX
+#DESIGN #UX #UX-RESEARCH 
 
 # Methods
 No need to know them all, the best way to approach the subject is to know the standard methods that most companies are familiar with.
