@@ -63,7 +63,7 @@ Superhuman: https://superhuman.com/
 	6) Lexend → https://fonts.google.com/specimen/Lexend
 
 ## Colors 
-- Gradients → webgradients.com
+- Gradients → [webgradients.com](https://webgradients.com/)
 - Shader Gradients → https://www.shadergradient.co/customize 
 - Color Designer → [colordesigner.io](http://colordesigner.io/)
 - Unicolors → https://unicolors.app

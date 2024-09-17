@@ -1,7 +1,7 @@
 #DESIGN #UI
 # Google Fonts
 - Poppins
-- Montserra
+- Montserrat
 - Nunito
 - Oswald
 - Belleza
