@@ -1,4 +1,4 @@
-#DESIGN #UX #UX-RESEARCH  
+#DESIGN #UX #UX-RESEARCH #THEORY 
 # What Is Information Architecture
 Also known as IA, **Information Architecture** is the process by which content is organized and made readily available to users.
 

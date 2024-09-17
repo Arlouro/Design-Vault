@@ -1,4 +1,4 @@
-#DESIGN #UI
+#DESIGN #UI #TYPOGRAPHY
 # Google Fonts
 - Poppins
 - Montserrat
