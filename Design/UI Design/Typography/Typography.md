@@ -2,7 +2,7 @@
 # Youtube Videos
 [The ULTIMATE Guide To Typography For Beginners](https://www.youtube.com/watch?v=AXpxZMRM1EY)
 
-# Typography vs Calligraphy
+# Typography vs. Calligraphy
 
 **!!!TO DO!!!**: Search for more information
 ## Typography
@@ -23,3 +23,15 @@
 ## Monospace
 
 ## Display
+
+
+# Italic
+## Italic vs. Slanted
+
+## Use of Italic in History
+(Introduction)
+### Only Italic
+
+### Mix of Italic and Round
+- 16th Century
+
