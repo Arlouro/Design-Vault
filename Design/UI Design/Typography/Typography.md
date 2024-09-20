@@ -2,6 +2,9 @@
 # Youtube Videos
 [The ULTIMATE Guide To Typography For Beginners](https://www.youtube.com/watch?v=AXpxZMRM1EY)
 
+# Books
+- Thinking With Type
+
 # Typography vs. Calligraphy
 
 **!!!TO DO!!!**: Search for more information
