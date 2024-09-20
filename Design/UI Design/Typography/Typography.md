@@ -15,4 +15,6 @@
 ### Examples:
 - Hand Written
 
+# Types of Fonts
+
 # 
