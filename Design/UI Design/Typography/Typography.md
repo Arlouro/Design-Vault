@@ -16,4 +16,10 @@
 - Hand Written
 
 # Types of Fonts
+## Serif
 
+## Sans-Serif
+
+## Monospace
+
+## Display
