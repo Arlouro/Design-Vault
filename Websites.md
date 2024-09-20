@@ -1,6 +1,7 @@
 #SITES
 
-https://www.youtube.com/watch?v=rTq_8DxZyFY
+# Youtube Videos To Extract Websites From 
+- https://www.youtube.com/watch?v=rTq_8DxZyFY
 # Quality of Life
 ## Gmail
 Superhuman: https://superhuman.com/
