@@ -2,22 +2,26 @@
 # Youtube Videos
 - [The ULTIMATE Guide To Typography For Beginners](https://www.youtube.com/watch?v=AXpxZMRM1EY)
 # Websites
+## Bibliography
 - [Understanding Typography - Material Design](m2.material.io/design/typography/understanding-typography.html#readability)
+## Reference Sites
+- [Home | A2/SW/HK](https://a2swhk.co.uk/)
 # Books
 - Thinking With Type
 
 # Typography vs. Calligraphy
-
-**!!!TO DO!!!**: Search for more information
-### Typography
-- Can be replicated without differences
-#### Examples:
-- Digital Fonts
-
-### Calligraphy
-- When replicated has differences from the original
-#### Examples:
-- Hand Written
+### Creation:
+- **Calligraphy** is hand-drawn.
+- **Typography** uses pre-designed fonts.
+### Flexibility:
+- **Calligraphy** is fluid and personal.
+- **Typography** is consistent and uniform.
+### Purpose:
+- **Calligraphy** is decorative and artistic.
+- **Typography** is for communication and legibility.
+#### Example:
+- **Calligraphy**: A hand-written wedding invitation
+- **Typography**: Body text in a website font like Helvetica.
 
 # Types of Fonts
 ### Serif
