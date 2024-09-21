@@ -78,6 +78,6 @@
 ### Renascence (XV Century)
 Recovery of the Latin Alphabet developed in roman times
 But with some alterations: rounder and thicker 
-**Humanist Fonts**
+#### **Humanist Fonts**
 - Seek to resemble the proportions of the human body.
 - In terms of reading, are the ones that fit best
