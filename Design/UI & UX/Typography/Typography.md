@@ -21,16 +21,17 @@
 
 # Types of Fonts
 ## Serif
-
+- Fonts with small decorative lines (serifs) at the ends of letter strokes (e.g., Times New Roman).
 ## Sans-Serif
-
+- Fonts without decorative strokes, offering a clean, modern look (e.g., Helvetica).
 ## Monospace
-
+- Fonts where each letter takes up the same width, often used in coding (e.g., Courier).
 ## Display
-
+- Fonts designed for large headings, decorative, and attention-grabbing (e.g., Impact).
 ## Script
-
+- Fonts that mimic cursive handwriting with connected, flowing letters (e.g., Brush Script).
 ## Handwritten
+- Fonts that resemble natural handwriting, often casual and informal (e.g., Comic Sans).
 
 # Type Properties
 
