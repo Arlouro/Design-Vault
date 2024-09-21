@@ -41,7 +41,7 @@
 - **X-height** refers to the height of the lowercase x for a typeface, and it indicates how tall or short each glyph in a typeface will be.
 - Typefaces with tall x-heights have better legibility at small font sizes, as the white space within each letter is more legible.
 ## Serif
-
+- Is the small decorative stroke or line added to the ends of the main strokes in certain fonts, making the letters look more traditional or formal. Fonts with these strokes are called **serif fonts**.
 ## Letter Spacing
 - **Letter-spacing**, also called tracking, refers to the uniform adjustment of the space between letters in a piece of text.
 - Larger type sizes, such as headlines, use tighter letter-spacing to improve readability and reduce space between letters.
@@ -61,6 +61,7 @@
 	3. Medium  
 	4. Bold
 ## Stress
+- Stress is the direction of the width in the curved stroke of a letter. It can either be vertical or diagonal. The easiest way to study the orientation is to analyze the letter ‘O’ in typography.
 ![Font_Stress_Orientation.jpeg|500](https://miro.medium.com/v2/resize:fit:1400/1*s3u8eiqNDVlcTrbRb0KJPw.jpeg)
 # Italic
 ## Italic vs. Slanted
