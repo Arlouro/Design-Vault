@@ -27,6 +27,33 @@
 
 ## Display
 
+## Script
+
+## Handwritten
+
+# Type Properties
+
+![[Anatomy_of_a_Typeface.png.png]]
+## Cap Height
+
+## X-height
+
+## Serif
+
+## Letter Spacing
+
+## Baseline
+
+## Stem
+
+## Stroke
+
+## Descender & Ascender
+
+## Aperture
+
+## Leading
+
 
 # Italic
 ## Italic vs. Slanted
