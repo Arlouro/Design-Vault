@@ -72,12 +72,18 @@
 ### Italic vs. Slanted
 - **Italic** changes the font and tend to occupy less space
 - **Slanted** slants the current font
-**Fun Fact**: The book "Lusíadas" is written only in Italic because it was cheaper 
+#### **Fun Fact**: The book "Lusíadas" is written only in Italic because it was cheaper 
 
 # History of Typography
 ### Renascence (XV Century)
-Recovery of the Latin Alphabet developed in roman times
-But with some alterations: rounder and thicker 
+Recovery of the Latin Alphabet developed in roman times.
+But with some alterations: rounder and thicker.
 #### **Humanist Fonts**
 - Seek to resemble the proportions of the human body.
-- In terms of reading, are the ones that fit best
+- In terms of reading, are the ones that fit best.
+#### **Roman New Roi**
+- Scientifically designed for the French press.
+- Letter start getting designed using drawing materials and do not follow the fluidity of writing.
+### **Baskerville**
+- Extremely thin and well design letters
+- Led to the production of better quality paper and ink
