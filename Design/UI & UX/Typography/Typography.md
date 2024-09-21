@@ -2,9 +2,9 @@
 # Youtube Videos
 - [The ULTIMATE Guide To Typography For Beginners](https://www.youtube.com/watch?v=AXpxZMRM1EY)
 # Websites
-## Bibliography
+### Webography
 - [Understanding Typography - Material Design](m2.material.io/design/typography/understanding-typography.html#readability)
-## Reference Sites
+### Reference Sites
 - [Home | A2/SW/HK](https://a2swhk.co.uk/)
 # Books
 - Thinking With Type
@@ -70,10 +70,14 @@
 ![Font_Stress_Orientation.jpeg|500](https://miro.medium.com/v2/resize:fit:1400/1*s3u8eiqNDVlcTrbRb0KJPw.jpeg)
 # Italic
 ### Italic vs. Slanted
+- **Italic** changes the font and tend to occupy less space
+- **Slanted** slants the current font
+**Fun Fact**: The book "Lusíadas" is written only in Italic because it was cheaper 
 
-### Use of Italic in History
-(Introduction)
-#### Only Italic
-
-#### Mix of Italic and Round
-- 16th Century
+# History of Typography
+### Renascence (XV Century)
+Recovery of the Latin Alphabet developed in roman times
+But with some alterations: rounder and thicker 
+**Humanist Fonts**
+- Seek to resemble the proportions of the human body.
+- In terms of reading, are the ones that fit best
