@@ -88,3 +88,10 @@ But with some alterations: rounder and thicker.
 ### **Baskerville**
 - Extremely thin and well design letters
 - Led to the production of better quality paper and ink
+#### **Fun Fact**:
+- Arial was created as a copy of Helvetica so Microsoft  wouldn't pay for the font
+
+# Screen vs. Paper
+Because of the light emitted by a screen, certain fonts appear to thin while being viewed in a screen, but in papar they appear normal.
+#### Examples:
+- Times New Roman
