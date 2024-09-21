@@ -72,7 +72,8 @@
 ### Italic vs. Slanted
 - **Italic** changes the font and tend to occupy less space
 - **Slanted** slants the current font
-#### **Fun Fact**: The book "Lusíadas" is written only in Italic because it was cheaper 
+#### **Fun Fact**: 
+- The book "Lusíadas" is written only in Italic because it was cheaper 
 
 # History of Typography
 ### Renascence (XV Century)
