@@ -77,7 +77,7 @@
 
 # History of Typography
 ### A2/SW/HK
-- Design ateliê in London, that works wit fonts (visit the site in [#Reference Sites]) 
+- Design ateliê in London, that works wit fonts (visit the site in [[#Reference Sites]]) 
 
 ### Renascence (XV Century)
 Recovery of the Latin Alphabet developed in roman times.
