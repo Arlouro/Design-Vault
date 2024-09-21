@@ -33,7 +33,7 @@
 
 # Type Properties
 
-![[Anatomy_of_a_Typeface.png.png]]
+![Anatomy_of_a_Typeface.png](https://lh3.googleusercontent.com/XN6ATtQ7Q_NxH5Eb_ZMiAZI6Wh61nClqWKHyx10vhIly8lzEOKmswVEAxjQOzldyCJ_q5W6dTznM0fn5wS8ArPzhpDq4vfhUxnOz=w1064-v0)
 ## Cap Height
 
 ## X-height
