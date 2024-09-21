@@ -76,6 +76,9 @@
 - The book "Lusíadas" is written only in Italic because it was cheaper 
 
 # History of Typography
+### A2/SW/HK
+- Design ateliê in London, that works wit fonts (check [[#Reference Sites]]) 
+
 ### Renascence (XV Century)
 Recovery of the Latin Alphabet developed in roman times.
 But with some alterations: rounder and thicker.
