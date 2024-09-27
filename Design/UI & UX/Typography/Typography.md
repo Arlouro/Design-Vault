@@ -172,6 +172,18 @@ Por causa da resolução do ecra com o aumento e redução do tamanho de letra a
 New Alphabet - 
 It was a theoretical exercise
 it was unreadable 
-but later it was polished in order to be more readable
-Peter Civil
+but later it was polished by a designer in order to be more readable
+Peter Civil - Designer de albuns de bandas
+
+Choque entre o design e a tecnologia
+
+### Anos 80
+
+Com a utilização de computadores e impressoras digitais surge a necessidade de surgir fontes que sucedam nestes meios digitais
+
+Zuzana Licko
+Desenha as letras em cima da grelha presente nestes meios
+Letras paxalizadas
+Ainda presentes em calculadoras e em meios com pouca definição por exemplo
+
 
