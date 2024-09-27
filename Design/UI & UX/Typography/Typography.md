@@ -6,6 +6,10 @@
 - [Understanding Typography - Material Design](m2.material.io/design/typography/understanding-typography.html#readability)
 ### Reference Sites
 - [Home | A2/SW/HK](https://a2swhk.co.uk/)
+  
+Game to play with Kerning in fonts
+- [Type Methods](https://type.method.ac)
+
 # Books
 - Thinking With Type
 
