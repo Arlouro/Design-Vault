@@ -99,3 +99,79 @@ Because of the light emitted by a screen, certain fonts appear to thin while bei
 #### Examples:
 - Times New Roman
 
+
+
+# !!! Missing Info
+
+
+
+### Sec. 19
+ Aumento na propaganda
+ explosão industrial 
+ produções em massa
+ Propaganda, cartazes, jornais
+ Letras feitas para chamar mais a atenção para um produto
+
+Fat Fonts/Face (heavier fonts)
+- para além de mais pesadas podem ter mais distorções
+- para além de efeitos como sombras, vazadas e desenhos no interior da letra surge um desenho não tradicional das letras
+
+Slab Serif (Tradução para português Serifas Egípcias, não estando de todo relacionadas com os egípcios)
+
+Relação entre Tipografia e estilos arquitetônicos
+
+Para acompanhar a necessidade do aumento dos tamanhos de letra substituiu-se a impressão utilizando chumbo com impressão utilizando madeira, isto porque chumbo seria demasiado "mole"
+
+As letras eram inicialmente esculpidas em aço para depois se fazer um molde para fazer o modelo em chumbo, sendo que a mudança para madeira facilitou o fabrico das letras em madeira
+
+Pantógrafo
+
+Wood Type
+As letras são mais semelhantes dentro do mesmo alfabeto do que entre alfabetos
+Preocupação com a uniformidade dentro do mesmo alfabeto mas diferentes de outros alfabetos
+
+Nesta época surgiu a possibilidade, vontade e necessidade de usar diferentes tipos de fonte.
+Independentemente se estas são parecidas ou não, usando as letras que estão à disposição, tendo o proposito de ao serem diferentes irá diferenciar o cartaz dos outros.
+Apesar disto o layout é convencional e estático, sem dinamismo
+Não há evolução no desenho e no layout.
+
+
+### Reforma e Revolução
+
+Designers de Vanguarda
+
+Tipografia mais moderna mas com abordagem um pouco diferentes
+
+Edward Johnston - desenhou as letras do metro de Londres
+Procura um alfabeto mais tradicional
+
+Arts and Crafts - Procura de letras não corrompidas pela revolução industrial
+
+Estilo destrutivo e desumano 
+
+Theo Van Doesburg - Letras sem zonas redondas utilizando apenas linhas retas
+
+Revolução tipográfica para criar tipos mais geométricos
+
+Mesmo que as letras utilizem métodos geométricos e abstratos costuma ser necessário fazer ajustes e acertos manuais 
+
+Alternativas teoricas em relação à propaganda mas desvinculando-se das letras tradicionais
+
+Futura Font
+
+### Tipografia como programa
+
+A partir de meados so sec XX começam a surgir novas ideias
+
+Utilização, em geral, da Helvetica ou similares
+Helvetica é a letra mais usada no século XX
+Accidents Grotesk - typeface que foi usada como modelo para Helvetica
+
+Letras criadas com o intuito de serem melhor representadas em ecras de baixa definição para acompanhar a tecnologia da época
+Por causa da resolução do ecra com o aumento e redução do tamanho de letra a forma da letra mudava, dá o autor ter criado:
+New Alphabet - 
+It was a theoretical exercise
+it was unreadable 
+but later it was polished in order to be more readable
+Peter Civil
+
