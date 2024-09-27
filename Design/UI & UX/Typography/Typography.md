@@ -179,6 +179,8 @@ Choque entre o design e a tecnologia
 
 ### Anos 80
 
+modernismo
+
 Com a utilização de computadores e impressoras digitais surge a necessidade de surgir fontes que sucedam nestes meios digitais
 
 Zuzana Licko
@@ -186,4 +188,18 @@ Desenha as letras em cima da grelha presente nestes meios
 Letras paxalizadas
 Ainda presentes em calculadoras e em meios com pouca definição por exemplo
 
+Com o surgimento de impressão a laser deixou de haver certa necessidade de letras pixelizadas para impressão em alta definição
+Letras passam a ter ficheiros de instalação de alta e baixa definição uma para ser apresentada em monitores e outra para a impressão de alta definição
+
+
+### Tipografia como Narrativa
+Inicio dos anos 90
+
+Tipografia digital evolui
+
+pos modernismo
+
+Letras mais desmanchadas, arranhadas, destruidas, etc.
+
+Letter on America by Edward Fella
 
