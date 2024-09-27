@@ -202,4 +202,21 @@ pos modernismo
 Letras mais desmanchadas, arranhadas, destruidas, etc.
 
 Letter on America by Edward Fella
+Outwest - Edward Fella
+Quebra a tradicão e desconstroi esta tipografia tradicional
+
+Barry Deck - template Gothic
+
+Scott Makela - Dead History
+Apropriação de outras tipografias
+
+
+
+### Tipografia com Computação
+
+Começam a aparecer tipografia que é programada obedecendo a combinações de código
+Ex. Erik von Brokland e Just va Rossum - Beowolf
+Criação de fontes que contém o acaso, incerteza, etc. (Geradas de forma randomizada através de código)
+
+Pesquisar: Computational Design and Visualization Lab.
 
