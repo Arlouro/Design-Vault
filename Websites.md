@@ -52,6 +52,7 @@ Superhuman: https://superhuman.com/
 - Feather Icons → https://feathericons.com/
 
 ## Fonts/Text
+- Fontjoy → https://fontjoy.com/
 - Fonts → https://fontsinuse.com 
 - All Typefaces → [freefaces.gallery](http://freefaces.gallery/)  
 - Writing Bold and Clear → [hemingwayapp.com](http://hemingwayapp.com/)  
