@@ -244,3 +244,6 @@ Na tipografia tradicional utilizava-se a medida "picas"
 
 Largura de Composição:
 
+### Scale Contrast
+- The strong contrast between type sizes gives design dynamism
+
