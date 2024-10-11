@@ -247,3 +247,16 @@ Largura de Composição:
 ### Scale Contrast
 - The strong contrast between type sizes gives design dynamism
 
+# Font Classification
+### **Serif**
+- Humanist
+- Modern
+- Transitional
+- Slab Serif
+### **Sans-Serif**
+- Humanist
+- Modern
+- Transitional
+### **Types of Classification**
+- Vox
+

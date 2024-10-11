@@ -38,8 +38,18 @@
 - Wolf Gang
 - Dominica
 
-
-
-
 # Other Fonts
 - Georgia - Serifed font that it's better for screen than for print
+
+# Best Modern Fonts
+- Baldoni
+- Didot
+
+# Best Humanist Fonts
+- Gills Sans
+
+# Grotesque Fonts
+- Helvetica
+
+# Geometric
+- Futura
