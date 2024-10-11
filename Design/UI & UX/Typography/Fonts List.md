@@ -37,3 +37,9 @@
 - Omerta
 - Wolf Gang
 - Dominica
+
+
+
+
+# Other Fonts
+- Georgia - Serifed font that it's better for screen than for print
