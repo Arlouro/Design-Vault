@@ -118,7 +118,7 @@ Framer → https://www.framer.com/
 # Coding
 ## Front-End
 CodePen: https://codepen.io/trending
-VubicBezier: https://cubic-bezier.com
+CubicBezier: https://cubic-bezier.com
 GSap: https://gsap.com
 ThreeJS: https://threejs.org
 CodeStitch: https://codestitch.app/
