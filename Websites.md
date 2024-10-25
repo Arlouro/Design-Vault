@@ -54,9 +54,10 @@ Superhuman: https://superhuman.com/
 ## Fonts/Text
 - Fontjoy → https://fontjoy.com/
 - Fonts → https://fontsinuse.com 
+- Free Fonts → https://www.freefonts.io/
 - All Typefaces → [freefaces.gallery](http://freefaces.gallery/)  
 - Writing Bold and Clear → [hemingwayapp.com](http://hemingwayapp.com/)  
- - Google Fonts:
+ - Google Fonts (https://fonts.google.com/):
 	1) Unbounded → https://fonts.google.com/specimen/Unbounded
 	2) Quick Sand → https://fonts.google.com/specimen/Quicksand
 	3) Space Grotesk → https://fonts.google.com/specimen/Space+Grotesk
