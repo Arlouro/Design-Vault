@@ -37,6 +37,7 @@ Superhuman: https://superhuman.com/
  
 ## Components
 - Radix → https://www.radix-ui.com/
+- Universe → https://uiverse.io/
 
 ## Logos
 - Logos → https://logggos.club
