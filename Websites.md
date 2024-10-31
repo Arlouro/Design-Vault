@@ -137,4 +137,4 @@ Posthog: https://posthog.com/product-analytics
 
 # Studying
 
-Notebook LM (Google):
+Notebook LM (Google): https://notebooklm.google.com/
