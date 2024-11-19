@@ -1,5 +1,36 @@
 #DESIGN #UX #UX-RESEARCH #THEORY 
 
+# The General Methodology of Design Research
+![[Pasted image 20241113093359.png]]
+
+
+# The Usability Concept
+Desirable interaction qualities that contribute to Usability:
+- Interaction efficiency - task speed;
+- Error Rates - volume, frequency, importance
+- Learnability - retention between uses
+- Subjective Satisfaction
+
+# Experience Factors
+- Experience with computation
+- Experience in the application domain
+- Experience with this or similar applications
+
+# Evaluation Timing
+Formative Evaluation:
+- during development
+- in time to make a difference
+Summative Evaluation:
+- post-mortem
+- serves the purpose of reflection in practice
+
+# Five Usability Evaluation Approaches
+- Quick & Dirty
+- Heuristic Evaluation
+- Design Walkthroughs
+- Formal Lab Test
+- Field Evaluations
+
 # Methods
 No need to know them all, the best way to approach the subject is to know the standard methods that most companies are familiar with.
 When faced with a topic to do some research on, instead of considering all of the UX Research Methods, you think "Would any of  the 3 methods allow us to collect the info that we need?".
@@ -23,7 +54,7 @@ Usually there is a **script** with questions but this method offers some ***leew
 	- can be time-consuming (and expensive)
 	- risk of leading questions influencing responses
 **!!Best when in early stages!!**
-
+:)
 ## Surveys
 
 ## Usability Tests
