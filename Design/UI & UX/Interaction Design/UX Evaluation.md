@@ -1,3 +1,126 @@
+## Resumo detalhado do documento "06.1 IHC-DI - User Experience Evaluation"
+
+O documento "06.1 IHC-DI - User Experience Evaluation" aborda a importância da avaliação da experiência do utilizador em IHC (Interação Humano-Computador). O foco principal reside na **usabilidade**, explorando conceitos e técnicas para avaliar a eficiência da interação entre utilizadores e artefactos.
+
+### Porquê Avaliar a Interação com Artefactos?
+
+A avaliação da usabilidade tem como principais objetivos:
+
+- Compreender os objetivos e o contexto do utilizador. 
+- Guiar o design para atingir os objetivos de utilização. 
+- Promover a convergência do processo de design. 
+- Comparar e avaliar designs ou soluções.
+
+A avaliação da usabilidade também **reduz os riscos**, permitindo:
+
+- Evitar o lançamento de produtos indesejados. 
+- Corrigir produtos disfuncionais. 
+- Resolver problemas de utilização o mais cedo possível. 
+
+### Eficácia vs Eficiência
+
+A adoção de uma ferramenta é influenciada por fatores sociais e práticos. Aspetos práticos como **adequação ao propósito, custo, compatibilidade, confiança e fiabilidade**, influenciam a decisão do utilizador. 
+
+A adequação ao propósito tem duas faces:
+
+- **Eficácia (ou utilidade):** capacidade de atingir o propósito. 
+- **Eficiência:** nível de desempenho do utilizador com o artefacto, ou seja, quão bem e quão rápido o utilizador realiza a tarefa. 
+
+Em usabilidade, assume-se a eficácia e trabalha-se em atributos de qualidade que promovem a eficiência.
+
+### O Conceito de Usabilidade
+
+Usabilidade traduz a qualidade de um artefacto que demonstra eficiência de interação, levando a um melhor desempenho e satisfação do utilizador. 
+
+Qualidades de interação desejáveis que contribuem para a usabilidade:
+
+- **Eficiência da interação:** velocidade de execução da tarefa. 
+- **Taxas de erro:** volume, frequência e importância dos erros. 
+- **Aprendizagem:** velocidade e duração da aprendizagem. 
+- **Memorização:** retenção de conhecimento entre utilizações. 
+- **Satisfação subjetiva:** nível de satisfação do utilizador. 
+
+### Fatores de Experiência
+
+A segmentação de utilizadores de acordo com fatores de experiência impacta os resultados de usabilidade:
+
+- Experiência com computação. 
+- Experiência no domínio da aplicação.
+- Experiência com esta ou aplicações semelhantes. 
+
+A segmentação de utilizadores pode também revelar que nem todas as tarefas têm a mesma frequência e importância para cada perfil de utilizador. 
+
+### Timing da Avaliação
+
+- **Avaliações formativas:** realizadas durante o desenvolvimento, a tempo de fazer a diferença. 
+- **Avaliações sumativas:** realizadas post-mortem, com o propósito de refletir sobre a prática.
+
+### Cinco Abordagens de Avaliação de Usabilidade
+
+O documento apresenta cinco abordagens para avaliar a usabilidade:
+
+1. **Quick & Dirty:** Prática ad-hoc, aproveitando qualquer oportunidade para testar o design/protótipo com utilizadores ou especialistas disponíveis. 
+2. **Avaliação Heurística:** Define um conjunto de heurísticas/critérios que o sistema deve cumprir. 
+3. **Design Walkthroughs & Wizard of Oz:** Simula o processo de resolução de problemas do utilizador, utilizando um protótipo (em papel, maquete ou funcional). 
+4. **Avaliações de Campo:** Estuda artefactos em uso por utilizadores finais no seu próprio ambiente. 
+5. **Teste Formal de Laboratório:** Envolve o desenvolvimento de um guião de teste e um protocolo de experimentação. 
+
+### Recolha de Dados em Testes Formais de Laboratório
+
+A recolha de dados é crucial. É importante:
+
+- Separar as funções: condutor, escriba e utilizador. 
+- Preparar formulários para registo de dados; registar o tempo e a ocorrência de eventos significativos.
+- Processar os resultados estatisticamente, apenas se forem significativos.
+- Não misturar testes de diferentes perfis de utilizador.
+
+### Satisfação Subjetiva e Questionários de UX
+
+Os questionários de UX focam-se em qualidades que os utilizadores têm dificuldade em expressar.  Existem dois tipos de escalas:
+
+- **Escalas de Likert (concordância):** para julgamentos racionalizáveis/refletidos.
+- **Escalas Diferenciais Semânticas:** para apreciações emocionais/instintivas.
+
+### Experiência e Dependência do Contexto
+
+A experiência do utilizador depende do contexto. Avaliar um videojogo, por exemplo, requer considerações diferentes da avaliação de um jogo online multijogador. 
+
+### Instrumentos de Avaliação
+
+O documento menciona vários instrumentos de avaliação:
+
+- **Flow Short Scale:** mede os componentes da experiência de fluxo. 
+- **Self-Assessment Manikin:** escala visual para avaliar respostas emocionais. 
+- **CSI - Creativity Support Index:** avalia o suporte à criatividade. 
+- **PXI - Player Experience Inventory:** mede a experiência do jogador em videojogos. 
+- **Eye Tracking:** rastreia o movimento dos olhos para avaliar a atenção. 
+- **Análise de dados de registo de campo:** analisa dados recolhidos em contexto real. 
+- **Diários para auto-etnografia:** permite aos utilizadores registarem as suas experiências. 
+
+### Preparação e Realização de um Protocolo de Avaliação
+
+O documento incentiva a criação de um protocolo de avaliação, incluindo:
+
+- Identificação do perfil do utilizador alvo. 
+- Definição de tarefas a serem realizadas.
+- Recolha de dados de, pelo menos, 10 testes.
+- Aplicação de um questionário de experiência subjetiva. 
+- Cálculo e representação gráfica de índices relevantes. 
+- Análise dos resultados e identificação de problemas. 
+
+### Criação de um Questionário de Experiência
+
+Recomenda-se a utilização da técnica de "Card Sorting" para identificar temas relevantes para o questionário. O questionário deve incluir:
+
+- 5 perguntas usando escalas de Likert. 
+- 5 perguntas usando escalas diferenciais semânticas. 
+- 5 perguntas abertas que possibilitem narrativas da experiência vivida.
+
+### Conclusões
+
+O documento "06.1 IHC-DI - User Experience Evaluation" fornece uma visão geral sobre a importância e os métodos de avaliação da experiência do utilizador em IHC. A ênfase na usabilidade e a variedade de técnicas e instrumentos apresentados, demonstram a importância de se considerar a experiência do utilizador no design e desenvolvimento de qualquer artefacto.
+
+---
 ## Breve Análise de Documentos sobre Avaliação da Experiência do Utilizador
 
 Estes documentos abordam a fenomenologia da interação e a avaliação da experiência do utilizador (UX) em design de interação humano-computador (IHC-DI). O primeiro documento explora a fenomenologia da interação, com foco na perceção incorporada e na interação com artefactos, enquanto o segundo apresenta conceitos e técnicas de avaliação de UX, incluindo usabilidade.
