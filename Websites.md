@@ -4,7 +4,7 @@
 - https://www.youtube.com/watch?v=rTq_8DxZyFY
 # Quality of Life
 ## Gmail
-Superhuman: https://superhuman.com/
+Superhuman → https://superhuman.com/
 
 # Job Search
 
