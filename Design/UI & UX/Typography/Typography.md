@@ -182,36 +182,26 @@
 ### **Renaissance (15th Century)**
 
 - Revival of Roman-style typefaces with refined proportions.
-    
 - **Humanist Fonts**: Based on calligraphic writing, highly readable.
-    
 - **Roman du Roi**: Designed with geometric precision for the French press.
-    
 
 ### **Baskerville (18th Century)**
 
 - Fine, high-contrast letterforms that improved printing quality.
-    
 - Led to innovations in paper and ink production.
-    
 
 #### **Fun Fact**
 
 - Arial was created as a Helvetica alternative to avoid licensing fees.
-    
 
 ---
 
 # Typography and Industrialization (19th Century)
 
 - The rise of advertising led to bold, attention-grabbing typefaces.
-    
 - **Fat Faces**: Extra-bold fonts with exaggerated proportions.
-    
 - **Slab Serif**: Heavy, block-like serifs (misleadingly called "Egyptian").
-    
 - Shift from lead to **wood type** for larger letters in printing.
-    
 
 ---
 
@@ -220,72 +210,50 @@
 ### **Helvetica and Sans-Serif Dominance**
 
 - **Helvetica** became the most-used typeface of the 20th century.
-    
 - Inspired by **Accidents Grotesk**.
-    
 - Designed for clarity, neutrality, and versatility.
-    
 
 ### **New Alphabet (1967)**
 
 - A radical geometric typeface designed for early digital displays.
-    
 - Initially unreadable but later refined.
-    
 
 ### **1980s and Digital Typography**
 
 - Early computer fonts were pixelated (e.g., bitmap fonts in calculators).
-    
 - Designers like **Zuzana Licko** adapted fonts to digital grids.
-    
 - Laser printing improved resolution, enabling high-quality digital typography.
-    
 
 ---
 
 # Postmodern Typography (1990s)
 
 - **Typographic experimentation**: Deconstructed, chaotic, expressive designs.
-    
 - **Edward Fella**: Designed unconventional, artistic letterforms.
-    
 - **Barry Deck**: Created _Template Gothic_, a grunge-style font.
-    
 - **Scott Makela**: Designed _Dead History_, a hybrid of serif and sans-serif.
-    
 
 ---
 
 # Computational Typography (21st Century)
 
 - Algorithmic, generative, and interactive fonts.
-    
 - **Beowolf** (Erik van Blokland & Just van Rossum): Introduced randomness in letterforms.
-    
 - Search: **Computational Design and Visualization Lab**.
-    
 
 ---
 
 # Typography Basics
 
 ### **Baseline Grid**
-
 - A typographic system ensuring text aligns across columns.
-    
 
 ### **Size & Measurement**
-
 - Traditional typography used **picas** (1 pica = 12 points).
-    
 - **Scale Contrast**: Large headlines with small body text create visual impact.
-    
 
 ### **Font Classification Systems**
-
 - **Serif**: Humanist, Modern, Transitional, Slab Serif.
-    
 - **Sans-Serif**: Humanist, Modern, Transitional.
-    
 - **Vox Classification**: A widely used system for categorizing typefaces.
+
