@@ -15,10 +15,19 @@ Superhuman → https://superhuman.com/
 
 # Design
 
+## User Experience Tools
+- UXTools → [uxtools.co](https://uxtools.co/)
+- UX Myths → [uxmyths.com](https://uxmyths.com/)
+
+## Design Mini-Games
+- Designercize → [designercize.com](https://designercize.com/)
+- TypeMethod → [type.method.ac](https://type.method.ac/)
+- SprintCards → [sprint.cards](https://sprint.cards/shuffle/design)
+
 ## Resources
 - Unblast → [unblast.com](http://unblast.com/)  
 - Figma Components → [figcomponents.com](http://figcomponents.com/)  
-- Design Spells → https://www.designspells.com/
+- Design Spells → [designspells.com](https://www.designspells.com/)
 - DesignCode → [Design+Code - Learn to design and code React and Swift apps](https://designcode.io/)
 
 ## Inspiration
@@ -38,6 +47,7 @@ Superhuman → https://superhuman.com/
 ## Components
 - Radix → https://www.radix-ui.com/
 - Universe → https://uiverse.io/
+- FigComponents → [figcomponents.com](https://www.figcomponents.com/)
 
 ## Logos
 - Logos → https://logggos.club
@@ -115,7 +125,7 @@ Superhuman → https://superhuman.com/
 - Shots → [shots.so](http://shots.so/)  
 
 ## No Code Implementation
-Framer → https://www.framer.com/
+- Framer → https://www.framer.com/
 
 # Coding
 ## Front-End
