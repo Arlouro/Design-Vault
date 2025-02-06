@@ -1,0 +1,44 @@
+- **Visualização Científica (SciVis):** Ramo da visualização focado na representação de dados geométricos, como dados volumétricos, e em problemas 3D.
+- **Visualização Geográfica (GeoVis):** Ramo da visualização que lida com dados geográficos e fenómenos espaciais.
+- **Visualização de Informação (InfoVis):** Ramo da visualização que lida com dados abstratos, focando na criação de representações visuais claras e estéticas.
+- **Visual Analytics (VA):** Combinação de visualização de dados com técnicas de _data mining_ para análise avançada de _outputs_ de algoritmos de _machine learning_.
+- **Grafo Bipartido:** Um tipo de grafo em que os nós podem ser divididos em dois grupos disjuntos, com as arestas ligando apenas nós de diferentes grupos.
+- **Lie Factor:** Relação entre o tamanho do efeito mostrado num gráfico e o tamanho do efeito nos dados. Um valor de 1 indica uma representação precisa.
+- **Tag Cloud:** Representação visual de um texto onde o tamanho das palavras é proporcional à sua frequência, ajudando na identificação dos temas principais.
+- **Variáveis Categóricas:** Variáveis que representam categorias ou grupos, podendo ser nominais (sem ordem) ou ordinais (com ordem).
+- **Variáveis Quantitativas:** Variáveis que representam valores numéricos, podendo ser discretas (contagens) ou contínuas (valores dentro de um intervalo).
+- **Escala de Intervalo:** Nível de medição onde a distância entre valores é significativa, mas não existe um zero verdadeiro.
+- **Binning/Discretização:** Processo de conversão de dados contínuos em dados discretos, agrupando valores em intervalos.
+- **Canais Visuais:** Propriedades visuais (cor, tamanho, forma, posição) usadas para codificar dados em visualizações.
+- **Princípios de Gestalt:** Conjunto de princípios da perceção visual que descrevem como agrupamos elementos visuais em padrões significativos.
+- **DBSCAN:** Algoritmo de _clustering_ baseado em densidade que agrupa pontos densos e identifica _outliers_.
+- **Variabilidade:** Mede o espalhamento ou a dispersão de um conjunto de dados.
+- **Desvio Padrão (STD):** Raiz quadrada da variância. Mede a dispersão dos dados em relação à média.
+- **D3.js:** Biblioteca JavaScript para manipulação de documentos baseados em dados, utilizada em visualizações interativas.
+- **SVG (Scalable Vector Graphics):** Formato de imagem vetorial baseado em XML, usado para criar gráficos e ilustrações.
+- **Layout Rectilíneo:** Disposição de elementos ao longo de eixos perpendiculares.
+- **Layout Radial:** Disposição de elementos em torno de um ponto central.
+- **Semiologia:** Estudo dos sinais e dos sistemas de sinais.
+- **Implantations:** As dimensões do plano (x e y), referidas por Bertin como locais onde as marcas visuais são posicionadas.
+- **Marcas Visuais (Marks):** Elementos gráficos básicos usados em visualizações, como pontos, linhas e áreas.
+- **Canais (Variáveis Visuais):** Atributos visuais das marcas, como cor, tamanho, forma, que codificam dados.
+- **Choropleth Map:** Mapa temático onde áreas geográficas são sombreadas ou coloridas de acordo com um valor de dados.
+- **Discretização:** Processo de converter dados contínuos em dados discretos
+- **Agregação:** Processo de resumir dados em um nível superior de granularidade.
+- **Histograma:** Gráfico que mostra a distribuição de frequência de dados quantitativos.
+- **Preatentivamente:** Processamento visual rápido e automático, sem necessidade de atenção consciente.
+- **Área de Dados:** Regiões delimitadas no espaço usadas para apresentar dados.
+- **Hierarchical Clustering:** Métodos de agrupamento que constroem uma hierarquia de clusters.
+- **K-means Clustering:** Algoritmo de _clustering_ que particiona dados em k clusters.
+- **Dendrogram:** Diagrama em forma de árvore que representa as relações entre clusters em métodos de _hierarchical clustering_.
+- **Euclidian Distance:** Distância calculada como a linha direta entre dois pontos.
+- **Manhattan Distance:** Distância calculada como a soma das diferenças absolutas de coordenadas entre dois pontos.
+- **Hamming Distance:** Distância que conta o número de posições em que duas sequências diferem.
+- **Box Plot:** Gráfico que mostra a distribuição de dados através de quartis e _outliers_.
+- **Tempo Lineares:** Representação onde o tempo avança do passado para o futuro.
+- **Tempo Cíclico:** Representação onde o tempo se repete em ciclos regulares.
+- **Frame of Reference:** O referencial temporal usado para representar os dados (data, hora, etc.)
+- **Granularidade:** Os níveis de detalhe no modelo de tempo (segundos, minutos, horas, dias, etc.)
+- **Univariate:** Dados temporais associados a uma única variável.
+- **Multivariate:** Dados temporais associados a mais de uma variável.
+- **Pequenos Múltiplos:** Exibição de uma série de gráficos menores lado a lado para comparação.
