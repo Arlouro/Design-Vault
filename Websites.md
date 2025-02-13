@@ -82,6 +82,8 @@ Superhuman → https://superhuman.com/
 - Color Designer → [colordesigner.io](http://colordesigner.io/)
 - Unicolors → https://unicolors.app
 - RealtimeColors → https://www.realtimecolors.com/
+- Huemint → [huemint.com](https://huemint.com//)
+
 
 ## Illustrations
 - Ultima → https://ultima.storytale.io 
