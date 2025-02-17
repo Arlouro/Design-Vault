@@ -48,6 +48,7 @@ Superhuman → https://superhuman.com/
 - Radix → https://www.radix-ui.com/
 - Universe → https://uiverse.io/
 - FigComponents → [figcomponents.com](https://www.figcomponents.com/)
+- UI Aceternity → [https://ui.aceternity.com/](https://ui.aceternity.com/ "https://ui.aceternity.com/")
 
 ## Logos
 - Logos → https://logggos.club
@@ -83,7 +84,6 @@ Superhuman → https://superhuman.com/
 - Unicolors → https://unicolors.app
 - RealtimeColors → https://www.realtimecolors.com/
 - Huemint → [huemint.com](https://huemint.com//)
-
 
 ## Illustrations
 - Ultima → https://ultima.storytale.io 
