@@ -129,6 +129,9 @@ Superhuman → https://superhuman.com/
 ## No Code Implementation
 - Framer → https://www.framer.com/
 
+## Service Design
+- Method Library → [Method Library — This is Service Design Doing](https://www.thisisservicedesigndoing.com/methods)
+
 # Coding
 ## Front-End
 CodePen: https://codepen.io/trending
