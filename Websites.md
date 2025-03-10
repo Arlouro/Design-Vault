@@ -43,6 +43,7 @@ Superhuman → https://superhuman.com/
 - Appshots → https://appshots.design  
 - Pageflows → https://pageflows.com
 - Behance → https://www.behance.net/
+- SaveIt → https://savee.it/
  
 ## Components
 - Radix → https://www.radix-ui.com/
@@ -69,6 +70,10 @@ Superhuman → https://superhuman.com/
 - Free Fonts → https://www.freefonts.io/
 - All Typefaces → [freefaces.gallery](http://freefaces.gallery/)  
 - Writing Bold and Clear → [hemingwayapp.com](http://hemingwayapp.com/)  
+- Fonts In Use → https://fontsinuse.com/blog
+- I love Typography → https://fonts.ilovetypography.com/
+- Type Wolf → https://www.typewolf.com/
+- Pangram Pangram → [https://pangrampangram.com](https://pangrampangram.com/collections/fonts?page=2)
  - Google Fonts (https://fonts.google.com/):
 	1) Unbounded → https://fonts.google.com/specimen/Unbounded
 	2) Quick Sand → https://fonts.google.com/specimen/Quicksand
@@ -134,22 +139,27 @@ Superhuman → https://superhuman.com/
 
 # Coding
 ## Front-End
-CodePen: https://codepen.io/trending
-CubicBezier: https://cubic-bezier.com
-GSap: https://gsap.com
-ThreeJS: https://threejs.org
-CodeStitch: https://codestitch.app/
+CodePen → https://codepen.io/trending
+CubicBezier → https://cubic-bezier.com
+GSap → https://gsap.com
+ThreeJS → https://threejs.org
+CodeStitch → https://codestitch.app/
 
 ## Back-End
-Drizzle: https://orm.drizzle.team/
+Drizzle → https://orm.drizzle.team/
 
 ## AI
-Supermaven: https://supermaven.com/
-Claude: https://claude.ai/new
+Supermaven → https://supermaven.com/
+Claude → https://claude.ai/new
 
 ## Analitics
-Posthog: https://posthog.com/product-analytics
+Posthog → https://posthog.com/product-analytics
+
+## Specific Languages
+### Processing
+The Coding Train → https://thecodingtrain.com/
+The Nature of Code → https://natureofcode.com/
 
 # Studying
 
-Notebook LM (Google): https://notebooklm.google.com/
+Notebook LM (Google) → https://notebooklm.google.com/
