@@ -65,6 +65,7 @@ Superhuman → https://superhuman.com/
 - Feather Icons → https://feathericons.com/
 
 ## Fonts/Text
+- https://pixelsurplus.com/
 - Fontjoy → https://fontjoy.com/
 - Fonts → https://fontsinuse.com 
 - Free Fonts → https://www.freefonts.io/
@@ -164,3 +165,8 @@ The Nature of Code → https://natureofcode.com/
 # Studying
 
 Notebook LM (Google) → https://notebooklm.google.com/
+
+
+
+
+
