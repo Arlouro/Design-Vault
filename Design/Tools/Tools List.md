@@ -1,5 +1,5 @@
 #DESIGN #TOOLS 
-# Typography
+# Typography and Editorial
 - Affinity Publisher
 - Adobe InDesign
 # Photography
