@@ -150,10 +150,6 @@ CodeStitch → https://codestitch.app/
 ## Back-End
 Drizzle → https://orm.drizzle.team/
 
-## AI
-Supermaven → https://supermaven.com/
-Claude → https://claude.ai/new
-
 ## Analitics
 Posthog → https://posthog.com/product-analytics
 
